@@ -44,7 +44,7 @@ class Solution1{
      
       for(int i=0;i<c;i++) {
     	 System.out.println(s1[i]);
-    	 System.out.println(s1[i]);
+    	// System.out.println(s1[i]);
       }
       in.close();
   }
